@@ -24,7 +24,10 @@ In September 2024, I had the incredible opportunity to step into the shoes of a 
 
 #Client Presentation: Delivered key findings and strategic recommendations, receiving 90% positive feedback from stakeholders.
 
-## 🗓️ Today's Agenda
+## 🎓 Certification
+![Screenshot 2024-11-05 172234](https://github.com/user-attachments/assets/fe13e0b1-9e89-4e36-9f78-fce58d202ad8)
+
+## 🗓️ Project Agenda
 
 Recap the Project: Overview of our mission and objectives.
 
